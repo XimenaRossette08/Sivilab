@@ -700,7 +700,7 @@ footer {
     opacity: 1;
 }
 
-    .slide-in-right.visible {
+    .slide-in-right.visible { 
         animation: slideInRight 0.8s ease forwards;
     }
 

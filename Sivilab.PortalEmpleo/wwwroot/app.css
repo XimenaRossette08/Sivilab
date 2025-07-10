@@ -694,7 +694,7 @@ footer {
     }
 }
 
-.slide-in-right,
+.slide-in-right,   
 .slide-in-left,
 .slide-in-up {
     opacity: 1;
@@ -705,9 +705,10 @@ footer {
     }
 
     .slide-in-left.visible {
-        animation: slideInLeft 0.8s ease forwards;
+        animation: slideInLeft 0.8s ease forwards;  
     }
 
     .slide-in-up.visible {
         animation: slideInUp 0.8s ease forwards;
     }
+     
